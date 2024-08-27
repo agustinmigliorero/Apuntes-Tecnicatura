@@ -59,3 +59,93 @@ Una vez analizada cada variable y el valor o atributo que tiene cada una es nece
 - Cuestionarios
 - Observacion no participante
 - Entrevistas semi-estructuradas
+
+<br>
+<br>
+
+A continuacion se presenta la ficha que fue completada por el alumno Pedro Gomez cuando se inscribio en la carrera de enfermeria.
+
+<table>
+  <thead>
+    <tr>
+      <th>Pregunta</th>
+      <th>Respuesta</th>
+      <th>Variable</th>
+      <th>Tipo de escala</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sexo</td>
+      <td><b>Masculino</b></td>
+      <td><i>Cualitativa</i></td>
+      <td><i>Nominal</i></td>
+    </tr>
+    <tr>
+      <td>Residencia</td>
+      <td><b>Mar del Plata</b></td>
+      <td><i>Cualitativa</i></td>
+      <td><i>Nominal</i></td>
+    </tr>
+    <tr>
+      <td>Año que cursa</td>
+      <td><b>2do</b></td>
+      <td><i>Cualitativa</i></td>
+      <td><i>Ordinal</i></td>
+    </tr>
+    <tr>
+      <td>Temperatura corporal</td>
+      <td><b>38,8</b></td>
+      <td><i>Cuantitativa</i></td>
+      <td><i>Intervalo</i></td>
+    </tr>
+    <tr>
+      <td>Pulso</td>
+      <td><b>70</b></td>
+      <td><i>Cuantitativa</i></td>
+      <td><i>Intervalo</i></td>
+    </tr>
+    <tr>
+      <td>Tipo de sangre</td>
+      <td><b>A+</b></td>
+      <td><i>Cualitativo</i></td>
+      <td><i>Nominal</i></td>
+    </tr>
+    <tr>
+      <td>Alergia a medicamentos</td>
+      <td><b>Ninguna</b></td>
+      <td><i>Cualitativa</i></td>
+      <td><i>Nominal</i></td>
+    </tr>
+  </tbody>
+</table>
+
+Por cada una de las respuestas indicar el tipo de variable cualitativa o cuantitativa.
+
+Tenemos tres tipos de escalas para clasificar las variables: **ordinal**, **nominal**, e **intervalo**.
+
+Se desea comparar la calidad de vida en una determinada ciudad. Para ello se define que la poblacion estara constituida por los jefes de hogar. Entre las variables que seran observadas, se proponen las siguientes:
+
+- Tiene vivienda propia?
+- Maximo nivel de educacion alcanzado
+- Ingreso mensual
+
+<br>
+Se pide:
+
+- A) Indicar el tipo de las tres variables propuestas y proponer una categorizacion razonable para cada una de ellas
+- B) Como redefiniria la categorias de la variable ingreso mensual, para que sea una variable cualitativa?. Como redefinirias para que sea cuantitativa
+- C) Proponer de forma razonada tres variables (una ordinal, una nominal y una de intervalo) que podrian utilizarse para realizar el estudio. Indicar el tipo de cada variable junto con la escala de medicion y las posibles categorias o valores que puede tener cada una de ellas
+
+A)
+
+- Tiene vivienda propia: es nominal|cualitativo, opciones posibles: Si|No
+- Maximo nivel de educacion alcanzado: es ordinal|cualitativo, opciones posibles: Ninguno | Primario | Secundario | Terciario | Universitario | Posgrado
+- Ingreso mensual: es intervalo|cuantitativo, opciones posibles:
+  0 - 100 | 101 - 200 | 201 - 400 | 401 o mas
+
+B) De forma cualitativa: Ingresos bajos, ingresos medios e ingresos altos. De forma cuantitativa: 0 - 100 | 101 - 200 | 201 - 400 | 401 o mas
+
+C) **Cuantitativo** | **Intervalo**: Tus ingresos cuantas canastas basicas suponen?  
+**Cualitativo** | **Nominal**: Tus ingresos superan tus gastos?  
+**Cualitativo** | **Ordinal**: Tipo de empleo: ej: "Desempleado", "Empleo no registrado", "Monotributista", "Empleo formal", "Empresario"
